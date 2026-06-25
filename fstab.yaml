@@ -1,5 +1,26 @@
 mountpoints:
    /:
-     url: "https://author-p121371-e1189853.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/praffuls-refdemo-20012026-83620/main"
+     url: "https://author-{
+  "mappings": [
+    "/content/6a3d0346688164389f974802/language-masters/en:/",
+    "/content/6a3d0346688164389f974802/language-masters/en/:/en/",
+    "/content/6a3d0346688164389f974802/language-masters/fr/:/fr/",
+    "/content/6a3d0346688164389f974802/language-masters/fr:/fr",
+    "/content/6a3d0346688164389f974802/language-masters/es/:/es/",
+    "/content/6a3d0346688164389f974802/language-masters/es:/es",
+    "/content/6a3d0346688164389f974802/language-masters/ja/:/ja/",
+    "/content/6a3d0346688164389f974802/language-masters/ja:/ja",
+    "/content/6a3d0346688164389f974802/language-masters/de/:/de/",
+    "/content/6a3d0346688164389f974802/language-masters/de:/de",
+    "/content/6a3d0346688164389f974802/configuration:/.helix/config.json",
+    "/content/6a3d0346688164389f974802/metadata:/metadata.json",
+    "/content/6a3d0346688164389f974802/redirects:/redirects.json",
+    "/content/6a3d0346688164389f974802/placeholders:/placeholders.json"
+  ],
+  "includes": [
+    "/content/6a3d0346688164389f974802/",
+    "/content/dam/6a3d0346688164389f974802/"
+  ]
+}.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/praffuls-refdemo-25062026-103031/main"
      type: "markup"
      suffix: ".html"
